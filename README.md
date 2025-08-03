@@ -38,4 +38,4 @@ cd password-generator-gui
 ---
 
 ## 🔎 Preview
-[](preview.png)
+[Preview](preview.png)
