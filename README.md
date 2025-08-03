@@ -34,3 +34,8 @@ Questa applicazione semplice ma potente è stata sviluppata in Python con **Tkin
 ```bash
 git clone https://github.com/tuo-utente/password-generator-gui.git
 cd password-generator-gui
+```
+---
+
+## 🔎 Preview
+[](preview.png)
